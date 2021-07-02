@@ -1,0 +1,7 @@
+{
+  "name": "coatzaemergencias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
